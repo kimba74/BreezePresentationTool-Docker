@@ -21,4 +21,5 @@ WORKDIR html
 # Installing node.js packages specified in package.json
 RUN npm install
 
-
+# Setting descriptive labels for package
+LABEL com.soabridge.docker.reveal.version="3.1.0"
