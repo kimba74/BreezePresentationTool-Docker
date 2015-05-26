@@ -1,3 +1,8 @@
+# ignore Git related directories and files
 .git
+
+# ignore Docker build related files
 Dockerfile
+
+# ignore container non-related files
 README.md
