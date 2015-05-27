@@ -1,3 +1,7 @@
+# ignore temporary files
+*~
+*.save
+
 # ignore Git related directories and files
 .git
 
