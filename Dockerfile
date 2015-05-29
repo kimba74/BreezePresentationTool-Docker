@@ -1,4 +1,4 @@
-FROM kimba74/apache2:ubuntu-14.04.2
+FROM kimba74/apache2
 MAINTAINER Steffen Krause <steffen.krause@soabridge.com>
 
 # Setting user
